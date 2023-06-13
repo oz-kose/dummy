@@ -3,9 +3,9 @@ configurations:
    cpu_config:
       - quantity: 4
         processor: amd 2222
-    ram_config:
+   ram_config:
       - quantity: 32
         capacity: 64GB
-    drive_config:
+   drive_config:
       - quantity: 4
         capacity: 10TB
