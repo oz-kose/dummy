@@ -3,9 +3,9 @@ configurations:
    cpu_config:
       - quantity: 2
         processor: amd 5555
-    ram_config:
+   ram_config:
       - quantity: 8
         capacity: 16GB
-    drive_config:
+   drive_config:
       - quantity: 2
         capacity: 4TB
