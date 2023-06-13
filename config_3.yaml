@@ -1,4 +1,11 @@
-dummy yaml file
-more
-stuff
-to add
+name: config_3
+configurations:
+   cpu_config:
+      - quantity: 4
+      - processor: amd 3333
+    ram_config:
+      - quantity: 16
+        capacity: 32GB
+    drive_config:
+      - quantity: 4
+        capacity: 1TB
