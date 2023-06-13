@@ -3,9 +3,9 @@ configurations:
    cpu_config:
       - quantity: 2
         processor: amd 9999
-    ram_config:
+   ram_config:
       - quantity: 4
         capacity: 32GB
-    drive_config:
+   drive_config:
       - quantity: 2
         capacity: 1TB
