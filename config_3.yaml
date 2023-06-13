@@ -3,9 +3,9 @@ configurations:
    cpu_config:
       - quantity: 4
         processor: amd 3333
-    ram_config:
+   ram_config:
       - quantity: 16
         capacity: 32GB
-    drive_config:
+   drive_config:
       - quantity: 4
         capacity: 1TB
