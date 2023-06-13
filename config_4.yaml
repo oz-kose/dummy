@@ -2,7 +2,7 @@ name: config_4
 configurations:
    cpu_config:
       - quantity: 4
-      - processor: amd 2222
+        processor: amd 2222
     ram_config:
       - quantity: 32
         capacity: 64GB
