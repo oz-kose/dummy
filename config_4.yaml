@@ -1,4 +1,11 @@
-this would be the third yaml file
-let's try adding stuff
-rando stuff added as usual
-some more stuff
+name: config_4
+configurations:
+   cpu_config:
+      - quantity: 4
+      - processor: amd 2222
+    ram_config:
+      - quantity: 32
+        capacity: 64GB
+    drive_config:
+      - quantity: 4
+        capacity: 10TB
