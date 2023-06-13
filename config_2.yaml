@@ -1,3 +1,11 @@
-addingthishereaswell
-add more
-even more
+name: config_2
+configurations:
+   cpu_config:
+      - quantity: 2
+      - processor: amd 5555
+    ram_config:
+      - quantity: 8
+        capacity: 16GB
+    drive_config:
+      - quantity: 2
+        capacity: 4TB
