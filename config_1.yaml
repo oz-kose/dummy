@@ -2,7 +2,7 @@ name: config_1
 configurations:
    cpu_config:
       - quantity: 2
-      - processor: amd 9999
+        processor: amd 9999
     ram_config:
       - quantity: 4
         capacity: 32GB
